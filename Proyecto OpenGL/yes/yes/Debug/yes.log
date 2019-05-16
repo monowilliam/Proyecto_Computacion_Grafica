@@ -1,0 +1,16 @@
+﻿  yes.cpp
+w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\yes\shader.h(53): warning C4101: 'infoLog': variable local sin referencia
+w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\yes\shader.h(52): warning C4101: 'success': variable local sin referencia
+w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\yes\yes.cpp(303): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\yes\yes.cpp(272): warning C4101: 'height': variable local sin referencia
+w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\yes\yes.cpp(272): warning C4101: 'width': variable local sin referencia
+w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\yes\yes.cpp(75): warning C4101: 'screenWidth': variable local sin referencia
+w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\yes\yes.cpp(75): warning C4101: 'screenHeight': variable local sin referencia
+w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\yes\yes.cpp(501): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\yes\yes.cpp(502): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\yes\yes.cpp(506): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\yes\yes.cpp(507): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\yes\yes.cpp(509): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\yes\yes.cpp(510): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\yes\yes.cpp(530): warning C4101: 'nrChannels': variable local sin referencia
+  yes.vcxproj -> W:\Desktop\Proyecto Computacion Grafica\Proyecto en OpenGL\yes\Debug\yes.exe

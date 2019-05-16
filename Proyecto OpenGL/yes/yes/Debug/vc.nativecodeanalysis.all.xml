@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\external libraries\assimp\include\assimp</FILEPATH>
+      <FILENAME>mesh.h</FILENAME>
+      <LINE>150</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'aiFace::mNumIndices' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>aiFace::{ctor}</FUNCTION>
+    <DECORATED>??0aiFace@@QAE@ABU0@@Z</DECORATED>
+    <FUNCLINE>150</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\external libraries\assimp\include\assimp</FILEPATH>
+      <FILENAME>mesh.h</FILENAME>
+      <LINE>213</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'aiVertexWeight::mWeight' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>aiVertexWeight::{ctor}</FUNCTION>
+    <DECORATED>??0aiVertexWeight@@QAE@XZ</DECORATED>
+    <FUNCLINE>213</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\external libraries\assimp\include\assimp</FILEPATH>
+      <FILENAME>mesh.h</FILENAME>
+      <LINE>259</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'aiBone::mWeights' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>aiBone::{ctor}</FUNCTION>
+    <DECORATED>??0aiBone@@QAE@ABU0@@Z</DECORATED>
+    <FUNCLINE>259</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\external libraries\assimp\include\assimp</FILEPATH>
+      <FILENAME>mesh.h</FILENAME>
+      <LINE>382</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'aiAnimMesh::mColors' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>aiAnimMesh::{ctor}</FUNCTION>
+    <DECORATED>??0aiAnimMesh@@QAE@XZ</DECORATED>
+    <FUNCLINE>382</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\external libraries\assimp\include\assimp</FILEPATH>
+      <FILENAME>mesh.h</FILENAME>
+      <LINE>614</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'aiMesh::mColors' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>aiMesh::{ctor}</FUNCTION>
+    <DECORATED>??0aiMesh@@QAE@XZ</DECORATED>
+    <FUNCLINE>614</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\external libraries\assimp\include\assimp</FILEPATH>
+      <FILENAME>anim.h</FILENAME>
+      <LINE>69</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'aiVectorKey::mTime' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>aiVectorKey::{ctor}</FUNCTION>
+    <DECORATED>??0aiVectorKey@@QAE@XZ</DECORATED>
+    <FUNCLINE>69</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\external libraries\assimp\include\assimp</FILEPATH>
+      <FILENAME>anim.h</FILENAME>
+      <LINE>110</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'aiQuatKey::mTime' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>aiQuatKey::{ctor}</FUNCTION>
+    <DECORATED>??0aiQuatKey@@QAE@XZ</DECORATED>
+    <FUNCLINE>110</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\external libraries\assimp\include\assimp</FILEPATH>
+      <FILENAME>anim.h</FILENAME>
+      <LINE>154</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'aiMeshKey::mValue' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>aiMeshKey::{ctor}</FUNCTION>
+    <DECORATED>??0aiMeshKey@@QAE@XZ</DECORATED>
+    <FUNCLINE>154</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\yes</FILEPATH>
+      <FILENAME>mesh.h</FILENAME>
+      <LINE>55</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Mesh::VAO' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Mesh::{ctor}</FUNCTION>
+    <DECORATED>??0Mesh@@QAE@V?$vector@UVertex@@V?$allocator@UVertex@@@std@@@std@@V?$vector@IV?$allocator@I@std@@@2@V?$vector@UTexture@@V?$allocator@UTexture@@@std@@@2@U?$tvec3@M$0A@@glm@@33M@Z</DECORATED>
+    <FUNCLINE>55</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\yes</FILEPATH>
+      <FILENAME>model.h</FILENAME>
+      <LINE>52</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Model::Material::shininess' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Model::Material::{ctor}</FUNCTION>
+    <DECORATED>??0Material@Model@@QAE@XZ</DECORATED>
+    <FUNCLINE>52</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>w:\desktop\proyecto computacion grafica\proyecto en opengl\yes\yes</FILEPATH>
+      <FILENAME>mesh.h</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Texture::id' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Texture::{ctor}</FUNCTION>
+    <DECORATED>??0Texture@@QAE@XZ</DECORATED>
+    <FUNCLINE>30</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\opengl\headers\glm\detail</FILEPATH>
+      <FILENAME>type_vec4.inl</FILENAME>
+      <LINE>182</LINE>
+      <COLUMN>52</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'glm::tvec4&lt;float,5&gt;::&lt;anonymous-tag&gt;::&lt;anonymous-tag&gt;::x' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>glm::tvec4&lt;float,5&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$tvec4@M$04@glm@@QAE@W4ctor@1@@Z</DECORATED>
+    <FUNCLINE>182</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
